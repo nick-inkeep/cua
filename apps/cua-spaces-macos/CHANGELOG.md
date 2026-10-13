@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.3](https://github.com/trycua/cua/compare/cua-spaces-v0.7.2...cua-spaces-v0.7.3) (2026-10-13)
+
+
+### Bug Fixes
+
+* **cua-spaces-macos:** ask before installing cua and adding it to PATH ([#5039](https://github.com/trycua/cua/issues/5039)) ([80ae9a4](https://github.com/trycua/cua/commit/80ae9a47ad9998a819bd5636b84e7eccb4a15841))
+
 ## [0.7.2](https://github.com/trycua/cua/compare/cua-spaces-v0.7.1...cua-spaces-v0.7.2) (2026-10-05)
 
 
